@@ -1,1 +1,2 @@
 1st line in file 1 in central master
+2nd line added in file 1 central branch B1
